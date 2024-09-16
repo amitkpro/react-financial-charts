@@ -1,4 +1,4 @@
-# React Financial Charts
+# React Financial Charts 
 
 > **Note:** this repo is a fork of [react-stockcharts](https://github.com/rrag/react-stockcharts), renamed, converted to typescript and bug fixes applied due to the original project being unmaintained.
 
